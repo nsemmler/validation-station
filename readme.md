@@ -12,6 +12,7 @@ An example repository for learning client side validation.
 
 It is suggested you tackle each task in the given order.
 
+- [ ] Update the `<script>` tag so that we are able to correctly select the form.
 - [ ] Hijack the form so that the default action does not happen when you press the submit button.
 - [ ] Require both the **Kind** and **Brand** fields.
 - [ ] Limit the "Number of Seats" to be above 0.
